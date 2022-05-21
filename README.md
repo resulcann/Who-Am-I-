@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Resul Can
 - 👀 I’m interested in developing games,
-- 🌱 I’m currently learning Unity3D
+- 🌱 I’m currently working at MagicLab Game Technologies as a intern level.
 - 📫 How to reach me resul3734@gmail.com
 
 <!---

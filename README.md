@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Resul Can
 - 👀 I’m interested in developing games,
-- 🌱 I’m currently working at MagicLab Game Technologies as intern level.
+- 🌱 I’m currently working at Bermuda Games
 - 📫 You can reach me from resul3734@gmail.com
 
 <!---
